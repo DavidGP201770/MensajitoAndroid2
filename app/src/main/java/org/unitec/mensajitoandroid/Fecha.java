@@ -8,7 +8,7 @@ public class Fecha {
     private int dayofmonth;
     private int dayofyear;
     private String era;
-    
+
 
     public int getYear() {
         return year;
